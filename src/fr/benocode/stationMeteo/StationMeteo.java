@@ -1,3 +1,10 @@
+/*
+ * Pattern Observateur
+ * Il définit une relation entre objets de type un-à-plusieurs, de façon que,
+ * lorsqu'un objet change d'état, tous ceux qui en dépendent en soient notifiés
+ * et soient mis à jour automatiquement.
+ */
+
 package fr.benocode.stationMeteo;
 
 public class StationMeteo {
